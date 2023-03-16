@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/128015930/225564933-fcf9bacd-9746-433c-9f70-66e792b3a776.png)
 
-
+![Codacy grade](https://img.shields.io/codacy/grade/embertonsony)
 
 <!--
 **embertonsony/embertonsony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
